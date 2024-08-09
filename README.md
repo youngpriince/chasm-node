@@ -3,7 +3,7 @@
 
 
 - Twitter : [@ChasmNetwork](https://x.com/ChasmNetwork)
-- Website : [Visit](https://chasm.net)
+- Website : [Chasm](https://chasm.net)
 
 ## Node Info
 
@@ -37,18 +37,18 @@
 
 ### Prerequisites
 
-- Visit : https://console.groq.com/keys (If it is not working in default, try it on Incognito tab)
+- Visit [Groq](https://console.groq.com/keys) (If it is not working in default, try it on Incognito tab)
 - Copy the API key after signing in
 - Save it somewhere for now
 
-- Now visit : https://scout.chasm.net/private-mint
+- Now visit [Scout](https://scout.chasm.net/private-mint)
 - Mint this with 0.025 $MNT Gas fee
 
 - After minting, click on `_mint(scout)` button
 - Copy the value of `SCOUT_UID` and `WEBHOOK_API_KEY`
 - Save it somewhere for now
 
-- Now, Go to : https://dashboard.ngrok.com/signup
+- Now, go to [Ngrok](https://dashboard.ngrok.com/signup)
 - Go to `Your Authtoken` section
 - Click on `Show Authtoken` button in the corner, then copy the command and save it somewhere else for now
 
@@ -143,9 +143,8 @@ curl -X POST \
 ```
 - Done !!
 
-Follow me [Youngprince.nft ](https://x.com/princ3_young)
 ---
 ### Node Status
 
-- You can now check your node status here : [Visit](https://scout.chasm.net/dashboard)
-- If you see Yellow or Green, it means your node is working properly, also your yellow dot will be turned into green dot after 1 or 2 hrs
+- You can now check your node status here : [Scout](https://scout.chasm.net/dashboard)
+- If you see Yellow or Green, it means your node is working properly, also the yellow dot will be turned into green dot after 1 or 2 hrs.
